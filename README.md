@@ -90,3 +90,5 @@ AI / 教育への投資率操作
 
 例外処理はメイン構造に影響しないよう分離されており、
 安定した学習体験を提供します。 
+
+<img width="1496" height="1097" alt="スクリーンショット 2026-04-30 182555" src="https://github.com/user-attachments/assets/9167f70f-f1d8-4931-b309-c9b81ae665e1" />
